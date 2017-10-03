@@ -1,7 +1,7 @@
 ---
 title: ""
 feature_text: ""
-feature_image: "https://unsplash.it/1300/400?image=1059"
+feature_image: "https://unsplash.it/1300/400?image=1040"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
