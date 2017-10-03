@@ -40,3 +40,38 @@ IEEE Workshop on Wireless Mesh Networks (__*WiMesh*__), Rome, Italy, Jun. 2009. 
 * **Femtocell-based Testbed for Evaluating Future Cellular Networks**<br />
 Hakyung Jung, Ji Hoon Lee, Chulhyun Park, __Youngbin Im__, Taekyoung Kwon, and Yanghee Choi<br />
 International Conferences on Future Internet Technologies (__*CFI*__) 2008, Seoul, Korea, June 2008. [PDF](http://mmlab.snu.ac.kr/publications/docs/cfi_2008.pdf)
+
+### [](#technical_report) Technical Report
+* **FluidMem: Memory as a Service for the Datacenter**<br />
+Caldwell Blake, __Youngbin Im__, Sangtae Ha, Richard Han, and Eric Keller<br />
+arXiv preprint arXiv:1707.07780 (2017). [PDF](https://arxiv.org/pdf/1707.07780.pdf)
+
+### [](#patent) Patent
+* **METHOD AND APPARATUS FOR ASSIGNING VIDEO BITRATE IN MOBILE COMMUNICATION SYSTEM**<br />
+Hyungho Lee, Taekyoung Kwon, Jicheol Lee, __Youngbin Im__, Hanna Lim, Taejoong Chung, Dookyoon Han<br />
+(United States Patent US9398337 B2) Jul 19, 2016.
+* **METHOD AND SYSTEM FOR VIDEO STREAMING**<br />
+Ted "Taekyoung" Kwon, Yanghee Choi, Donghyun son, __Youngbin Im__, Eunsang Cho<br />
+(Pending 10-2014-0044198), 2014.04.14
+* **METHOD AND APPARATUS FOR ASSIGNING VIDEO BITRATE IN MOBILE COMMUNICATION SYSTEM**<br />
+Ted "Taekyoung" Kwon, __Youngbin Im__, Taejoong Chung, Dookyoon Han, Hyungho Lee, Jicheol Lee, Hanna Lim<br />
+(pending, Korean application NO. P2013-0065634.), 2013
+* **METHOD AND APPRATUS FOR PRVENTING DUPLICATED TRANSMISSION UNDER STREAMING SERVICE**<br />
+Ted "Taekyoung" Kwon, Taejoong Chung, __Youngbin Im__, Dookyoon Han, Hyungho Lee, Jicheol Lee, Hanna Lim<br />
+(pending, Korean application NO. P2013-0075777.), 2013
+* **METHOD FOR PROVIDING FOR A VIDEO STREAMING SERVICE AN MOBILE DEVICE THEREOF**<br />
+Ted "Taekyoung" Kwon, Dookyoon Han, __Youngbin Im__, Taejoong Chung,	Hyungho Lee, Jicheol Lee, Hanna Lim<br />
+(pending, Korean application NO. P2013-0066062.), 2013
+
+### [](#demo) Demo
+* **RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**<br />
+ACM __*MobiCom 2007*__
+* **Demo: Pricing by Timing for Mobile Data**<br />
+S. Ha, S. Sen, C. Joe-Wong, J. Mifkovich, R. Rill, Y. Im, D. Butnariu, J. Bawa and M. Chiang<br />
+IEEE __*INFOCOM 2012*__
+
+### [](#award) Awards
+* **RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**<br />
+Awards in ACM __*MobiCom 2007 Student Demo Competition*__
+The Popular Demo Award, voted as the best demo by the ACM MobiCom participants, and second place award, voted by the ACM MobiCom Student Demo Competition judges
+ 
