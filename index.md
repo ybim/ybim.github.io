@@ -6,8 +6,8 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ---
 
 ### About Youngbin Im
-I am a postdoctoral researcher in the Department of Computer Science at University of Colorado Boulder.<br />
+I am a postdoctoral researcher in the Department of Computer Science at University of Colorado Boulder.
 I'm mentored by Professor [Sangtae Ha](http://ngn.cs.colorado.edu/~sangtaeha/).<br />
-I received my B.S. and Ph.D. degrees in computer science and engineering from Seoul National University in 2006 and 2014, respectively. During my graduate program, I was a visiting student at Princeton University. My research interest includes Mobile data offloading
-Next-generation Internet, Adaptive video streaming, TCP latency measurement and solution.<br />
-My e-mail is Youngbin DOT Im AT colorado DOT edu
+I received my B.S. and Ph.D. degrees in computer science and engineering from Seoul National University in 2006 and 2014, respectively. During my graduate program, I was a visiting student at Princeton University. My research interest includes mobile data offloading
+next-generation Internet, adaptive video streaming, TCP latency measurement and solution.<br />
+My e-mail address is Youngbin DOT Im AT colorado DOT edu
