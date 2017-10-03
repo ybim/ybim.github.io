@@ -7,11 +7,11 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-### [](#international)<span class="pub_kind">International journals/conferences</span>
-* **<span class="pub_title">Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device</span>**<br />
+### [](#international)International journals/conferences
+* **Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device**<br />
 Jincao Zhu, __Youngbin Im__, Shivakant Mishra, and Sangtae Ha<br />
 ACM __*Sensys*__ 2017 (26 out of 149 = 17.4% acceptance rate).
-* **<span class="pub_title">FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks</span>**<br />
+* **FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks**<br />
 __Youngbin Im__, Jinyoung Han, Ji Hoon Lee, Yoon Kwon, Carlee Joe-Wong, Ted "Taekyoung" Kwon, and Sangtae Ha<br />
 The 37th IEEE International Conference on Distributed Computing (__*ICDCS*__ 2017), Atlanta, GA, USA, June 2017 (90 out of 531 = 16.94% acceptance rate). [PDF]
 * P. Rahimzadeh, C. Joe-Wong, K. Shin, Y. Im, J. Lee and S. Ha, SVC-TChain: Incentivizing Good Behavior in Layered P2P Video Streaming, IEEE INFOCOM 2017 (292 out of 1395 = 20.93% acceptance rate).
