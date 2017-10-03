@@ -37,6 +37,6 @@ International Conference on Future Internet Technologies (__*CFI*__) 2010, Seoul
 * **FIRM: Flow-based Interference-aware Route Management in Wireless Mesh Networks**<br />
 __Youngbin Im__, Jeongkeun Lee, Jinyoung Han, Sung-Ju Lee, and Ted "Taekyoung" Kwon<br />
 IEEE Workshop on Wireless Mesh Networks (__*WiMesh*__), Rome, Italy, Jun. 2009. [PDF](http://mmlab.snu.ac.kr/publications/docs/WiMesh09_ybim.pdf)
-* Femtocell-based Testbed for Evaluating Future Cellular Networks**<br />
+* **Femtocell-based Testbed for Evaluating Future Cellular Networks**<br />
 Hakyung Jung, Ji Hoon Lee, Chulhyun Park, __Youngbin Im__, Taekyoung Kwon, and Yanghee Choi<br />
 International Conferences on Future Internet Technologies (__*CFI*__) 2008, Seoul, Korea, June 2008. [PDF](http://mmlab.snu.ac.kr/publications/docs/cfi_2008.pdf)
