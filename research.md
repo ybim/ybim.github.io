@@ -22,3 +22,27 @@ aside: true
 ![flare](assets/flare.png)
 
 * Fog computing is an emerging architecture that aims to run applications on multiple devices that lie on a continuum from cloud servers to personal user smartphones. These architectures allow applications to optimize over the information stored at and functionalities run on each device, based on individual device capabilities. We demonstrate the benefits of this approach for mobile video streaming. Existing HAS (HTTP adaptive streaming) techniques often suffer from problems like unstable video quality and suboptimal resource utilization. We find that a lack of coordination prevents both clientand network-side HAS techniques from solving them. However, our fog approach can exploit existing telecommunication APIs, which expose network capabilities to applications, in order to coordinate between clients and the network. Our coordinated HAS solution, FLARE, optimizes the total utility of all clients in a cell while maintaining stable video quality and supporting user- and device-specific needs. We implement FLARE on a commodity LTE femtocell and use the implementation to conduct the first comparison of HAS players on an LTE femtocell. By conducting extensive experiments using the ns-3 simulator, we also demonstrate that FLARE (i) enhances the average video bitrate, (ii) achieves stable video quality, and (iii) balances the throughput of simultaneous video and data flows, compared to other representative HAS solutions.
+
+![experimental_evaluation](assets/comnet.png)
+
+* The HTTP-based Adaptive Streaming (HAS) techniques are widely
+used in Internet video streaming services including
+YouTube and Netflix. The Dynamic Adaptive Streaming over HTTP (DASH) is
+the latest international standard that facilitates the interoperability
+of different HAS techniques of various vendors. DASH specification
+defines the media presentation description (MPD) which describes a list
+of available content, URL addresses, and the segment format. The rate
+adaptation algorithms, however, are not part of the standard and the
+details of the algorithms are left to vendors. As a result, there are
+many different algorithms adopted in both commercial and open source
+players while the detailed algorithms and their performance are barely
+understood. In this paper, we investigate the detailed operations of the
+different players by code level analysis and through reverse engineering.
+Specifically, we present the pseudo codes of 3 open source players, and
+devise a method to obtain the detailed operation information, e.g.,
+bitrate and buffer amount, of popular streaming players whose source code
+is not publicly available. We conduct extensive experiments on our
+testbed, and provide suggestions based on the behaviors of these players,
+including the repeated over-estimation of the available bandwidth, unfair
+bitrate selection when multiple players compete for the bandwidth, and
+insensitivity of QUIC protocol to the varying network bandwidth.
