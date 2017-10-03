@@ -7,4 +7,4 @@ aside: true
 ---
 ### Demo map embed
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" %}
+{% include map.html %}
