@@ -72,6 +72,6 @@ IEEE __*INFOCOM 2012*__
 
 ### [](#award) Awards
 * **RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**<br />
-Awards in ACM __*MobiCom 2007 Student Demo Competition*__
+Awards in ACM __*MobiCom 2007 Student Demo Competition*__<br />
 The Popular Demo Award, voted as the best demo by the ACM MobiCom participants, and second place award, voted by the ACM MobiCom Student Demo Competition judges
  
