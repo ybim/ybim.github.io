@@ -75,7 +75,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Youngbin Im's homepage" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/birdhouse-48532_640.png" # Site logo, also used in jekyll-seo-tag
 description: "Youngbin Im's homepage"
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
