@@ -10,6 +10,6 @@ I am a postdoctoral researcher in the Department of Computer Science at Universi
 I'm mentored by Professor [Sangtae Ha](http://ngn.cs.colorado.edu/~sangtaeha/).
 
 I received my B.S. and Ph.D. degrees in computer science and engineering from Seoul National University in 2006 and 2014, respectively. During my graduate program, I was a visiting student at Princeton University. My research interest includes mobile data offloading, 
-next-generation Internet, adaptive video streaming, TCP latency measurement and solution.
+next-generation Internet, adaptive video streaming, TCP latency measurement and solution, data center resource disaggregation.
 
 My e-mail address is Youngbin DOT Im AT colorado DOT edu
