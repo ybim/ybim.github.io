@@ -1,5 +1,4 @@
 {% if site.navigation_header %}
-<div align="right" width="100%">
 <nav class="nav  nav--header" align="right" width="100%">
   <button class="button  button--nav" aria-label="Nav toggle">
     {% include icon.html id="nav" %}
@@ -19,7 +18,6 @@
     {% endfor %}
   </ul>
 </nav>
-</div>
 {% else %}
   {% include nav-default.html %}
 {% endif %}
