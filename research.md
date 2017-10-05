@@ -30,20 +30,10 @@ aside: true
 used in Internet video streaming services including
 YouTube and Netflix. The Dynamic Adaptive Streaming over HTTP (DASH) is
 the latest international standard that facilitates the interoperability
-of different HAS techniques of various vendors. DASH specification
-defines the media presentation description (MPD) which describes a list
-of available content, URL addresses, and the segment format. The rate
+of different HAS techniques. The rate
 adaptation algorithms, however, are not part of the standard and the
-details of the algorithms are left to vendors. As a result, there are
-many different algorithms adopted in both commercial and open source
-players while the detailed algorithms and their performance are barely
-understood. In this paper, we investigate the detailed operations of the
+details of the algorithms are left to vendors. In this paper, we investigate the detailed operations of the
 different players by code level analysis and through reverse engineering.
 Specifically, we present the pseudo codes of 3 open source players, and
-devise a method to obtain the detailed operation information, e.g.,
-bitrate and buffer amount, of popular streaming players whose source code
-is not publicly available. We conduct extensive experiments on our
-testbed, and provide suggestions based on the behaviors of these players,
-including the repeated over-estimation of the available bandwidth, unfair
-bitrate selection when multiple players compete for the bandwidth, and
-insensitivity of QUIC protocol to the varying network bandwidth.
+devise a method to obtain the detailed operation information of popular streaming players. We conduct extensive experiments on our
+testbed, and provide suggestions based on the behaviors of these players.
