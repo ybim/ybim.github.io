@@ -8,8 +8,10 @@ aside: true
 
 ### [](#international)International journals/conferences
 * <span style="color:LightSeaGreen">**Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device**</span><br />
+<span style="font-size: 10pt">
 Jincao Zhu, __Youngbin Im__, Shivakant Mishra, and Sangtae Ha<br />
 ACM __*Sensys 2017*__ (26 out of 149 = 17.4% acceptance rate).
+</span> 
 * <span style="color:LightSeaGreen">**FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks**</span><br />
 __Youngbin Im__, Jinyoung Han, Ji Hoon Lee, Yoon Kwon, Carlee Joe-Wong, Ted "Taekyoung" Kwon, and Sangtae Ha<br />
 The 37th IEEE International Conference on Distributed Computing (__*ICDCS 2017*__), Atlanta, GA, USA, June 2017 (90 out of 531 = 16.94% acceptance rate). [PDF](http://mmlab.snu.ac.kr/~ybim/FLARE_ICDCS.pdf)
