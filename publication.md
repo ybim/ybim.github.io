@@ -7,7 +7,7 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
-* <span style="color:blue">**Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device**<span><br />
+* **<span style="color:blue">Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device</span>**<br />
 Jincao Zhu, __Youngbin Im__, Shivakant Mishra, and Sangtae Ha<br />
 ACM __*Sensys 2017*__ (26 out of 149 = 17.4% acceptance rate).
 * **FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks**<br />
