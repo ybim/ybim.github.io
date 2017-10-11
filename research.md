@@ -13,23 +13,15 @@ aside: true
 * Data center resource disaggregation
 
 ### Mobile data offloading
-
 ![amuse](assets/amuse.png)
-
 * Wireless Internet service providers (ISPs) are increasingly changing their pricing plans and deploying Wi-Fi hotspots to offload their mobile traffic. However, these ISP-centric approaches for traffic management do not always match the interests of mobile users. Users face a complex, multi-dimensional tradeoff between cost, throughput, and delay in making their offloading decisions. To navigate this tradeoff, we develop Adaptive bandwidth Management through USer-Empowerment (AMUSE), a functional prototype of a practical, cost-aware Wi-Fi offloading system that takes into account a user's throughput-delay tradeoffs and cellular budget constraint. 
 
 ### Adaptive video streaming
-
 ![flare](assets/flare.png)
-
 * Existing HAS (HTTP adaptive streaming) techniques often suffer from problems like unstable video quality and suboptimal resource utilization. However, our fog computing approach can exploit existing telecommunication APIs, which expose network capabilities to applications, in order to coordinate between clients and the network. Our coordinated HAS solution, FLARE, optimizes the total utility of all clients in a cell while maintaining stable video quality and supporting user- and device-specific needs. We implement FLARE on a commodity LTE femtocell and use the implementation to conduct the first comparison of HAS players on an LTE femtocell.
-
 ![experimental_evaluation](assets/comnet.png)
-
 * The HTTP-based Adaptive Streaming (HAS) techniques are widely used in Internet video streaming services including YouTube and Netflix. In this research, we investigate the detailed operations of the different players by code level analysis and through reverse engineering. Specifically, we present the pseudo codes of 3 open source players, and devise a method to obtain the detailed operation information of popular streaming players. We conduct extensive experiments on our testbed, and provide suggestions based on the behaviors of these players.
 
 ### Data center resource disaggregation
-
 ![fluidmem](assets/fluidmem.png)
-
 Disaggregating resources in data centers is an emerging trend. Recent work has begun to explore memory disaggregation, but suffers limitations including lack of consideration of the complexity of cloud-based deployment, including heterogeneous hardware and APIs for cloud users and operators. In this research, we develop FluidMem, a complete system to realize disaggregated memory in the datacenter. Going beyond simply demonstrating remote memory is possible, we create an entire Memory as a Service. We define the requirements of Memory as a Service and build its implementation in Linux as FluidMem. 
