@@ -22,11 +22,11 @@ aside: true
 ![experimental_evaluation](assets/comnet.png)<br />
 * The HTTP-based Adaptive Streaming (HAS) techniques are widely used in Internet video streaming services including YouTube and Netflix. In this research, we investigate the detailed operations of the different players by code level analysis and through reverse engineering. Specifically, we present the pseudo codes of 3 open source players, and devise a method to obtain the detailed operation information of popular streaming players. We conduct extensive experiments on our testbed, and provide suggestions based on the behaviors of these players.
 
-### TCP latency measurement and solution
-![tcp_latency](assets/tcp_latency.png)<br />
-Today’s end devices and Internet infrastructure cannot provide reliably low latencies, e.g., due to the “bufferbloat” problem.
-Indeed, current latency diagnosis tools cannot even decompose end-to-end delay measurements into delays on network links and delays within the device protocol stack. We develop a latency diagnosis tool that provides this decomposition without requiring admin
-privileges at the sender or receiver. We implement and deploy the tool in lab testbed, WAN, and Internet environments, and validated it achieves more than 98% accuracy compared to the ground-truth in different production networks. 
+%### TCP latency measurement and solution
+%![tcp_latency](assets/tcp_latency.png)<br />
+%Today’s end devices and Internet infrastructure cannot provide reliably low latencies, e.g., due to the “bufferbloat” problem.
+%Indeed, current latency diagnosis tools cannot even decompose end-to-end delay measurements into delays on network links and delays %within the device protocol stack. We develop a latency diagnosis tool that provides this decomposition without requiring admin
+%privileges at the sender or receiver. We implement and deploy the tool in lab testbed, WAN, and Internet environments, and validated it %achieves more than 98% accuracy compared to the ground-truth in different production networks. 
 
 ### Data center resource disaggregation
 ![fluidmem](assets/fluidmem.png)<br />
