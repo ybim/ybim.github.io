@@ -9,7 +9,6 @@ aside: true
 * Mobile data offloading
 * Next-generation Internet
 * Adaptive video streaming
-* TCP latency measurement and solution 
 * Data center resource disaggregation
 
 ### Mobile data offloading
