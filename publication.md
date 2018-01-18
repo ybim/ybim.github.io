@@ -7,6 +7,12 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive Streaming**</span><br />
+<span style="font-size: 13pt">Ibrahim Ayad, __Youngbin Im__, Eric Keller, and Sangtae Ha<br />
+Elsevier Computer Networks 2018.</span> 
+* <span style="color:LightSeaGreen">**SNN-Cache: A Practical Machine Learning-based Caching System Utilizing the Inter-relationships of Requests**</span><br />
+<span style="font-size: 13pt">__Youngbin Im__, Prasanth Prahladan, Tae Hwan Kim, Yong Geun Hong, and Sangtae Ha<br />
+__*CISS 2018*__.</span> 
 * <span style="color:LightSeaGreen">**Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device**</span><br />
 <span style="font-size: 13pt">Jincao Zhu, __Youngbin Im__, Shivakant Mishra, and Sangtae Ha<br />
 ACM __*Sensys 2017*__ (26 out of 149 = 17.4% acceptance rate).</span> 
