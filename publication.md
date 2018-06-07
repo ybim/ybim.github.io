@@ -18,7 +18,7 @@ __*CISS 2018*__.</span>
 ACM __*Sensys 2017*__ (26 out of 149 = 17.4% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**FLARE: Coordinated Rate Adaptation for HTTP Adaptive Streaming in Cellular Networks**</span><br />
 <span style="font-size: 13pt">__Youngbin Im__, Jinyoung Han, Ji Hoon Lee, Yoon Kwon, Carlee Joe-Wong, Ted "Taekyoung" Kwon, and Sangtae Ha<br />
-The 37th IEEE International Conference on Distributed Computing (__*ICDCS 2017*__), Atlanta, GA, USA, June 2017 (90 out of 531 = 16.94% acceptance rate). [PDF](http://mmlab.snu.ac.kr/~ybim/FLARE_ICDCS.pdf)</span>
+The 37th IEEE International Conference on Distributed Computing (__*ICDCS 2017*__), Atlanta, GA, USA, June 2017 (89 out of 531 = 16.8% acceptance rate). [PDF](http://mmlab.snu.ac.kr/~ybim/FLARE_ICDCS.pdf)</span>
 * <span style="color:LightSeaGreen">**SVC-TChain: Incentivizing Good Behavior in Layered P2P Video Streaming**</span><br />
 <span style="font-size: 13pt">P. Rahimzadeh, C. Joe-Wong, K. Shin, __Y. Im__, J. Lee and S. Ha<br />
 IEEE __*INFOCOM 2017*__ (292 out of 1395 = 20.93% acceptance rate).</span>
