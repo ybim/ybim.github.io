@@ -7,6 +7,9 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**I Sent It: Where Does Slow Data Go to Wait?**</span><br />
+<span style="font-size: 13pt">__Youngbin Im__, Parisa Rahimzadeh, Brett Shouse, Shinik Park, Carlee Joe-Wong, Kyunghan Lee, and Sangtae Ha<br />
+ __*EuroSys 2019*__ (45 out of 207 = 21.7% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive Streaming**</span><br />
 <span style="font-size: 13pt">Ibrahim Ayad, __Youngbin Im__, Eric Keller, and Sangtae Ha<br />
 Elsevier Computer Networks 2018.</span> 
