@@ -6,10 +6,17 @@ excerpt: ""
 aside: true
 ---
 ### Research Areas
+* TCP latency measurement and solution
 * Mobile data offloading
 * Next-generation Internet
 * Adaptive video streaming
 * Data center resource disaggregation
+
+### TCP latency measurement and solution
+![tcp_latency](assets/tcp_latency.png)<br />
+Today’s end devices and Internet infrastructure cannot provide reliably low latencies, e.g., due to the “bufferbloat” problem.
+Indeed, current latency diagnosis tools cannot even decompose end-to-end delay measurements into delays on network links and delays within the device protocol stack. We develop a latency diagnosis tool that provides this decomposition without requiring admin
+privileges at the sender or receiver. We implement and deploy the tool in lab testbed, WAN, and Internet environments, and validated it achieves more than 98% accuracy compared to the ground-truth in different production networks. 
 
 ### Mobile data offloading
 ![amuse](assets/amuse.png)<br />
