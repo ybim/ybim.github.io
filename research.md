@@ -14,9 +14,7 @@ aside: true
 
 ### TCP latency measurement and solution
 ![tcp_latency](assets/tcp_latency.png)<br />
-Today’s end devices and Internet infrastructure cannot provide reliably low latencies, e.g., due to the “bufferbloat” problem.
-Indeed, current latency diagnosis tools cannot even decompose end-to-end delay measurements into delays on network links and delays within the device protocol stack. We develop a latency diagnosis tool that provides this decomposition without requiring admin
-privileges at the sender or receiver. We implement and deploy the tool in lab testbed, WAN, and Internet environments, and validated it achieves more than 90% accuracy compared to the ground-truth in different production networks. 
+Emerging applications like VR, AR, and 360-degree video aim to exploit the unprecedentedly low latencies promised by technologies like the tactile Internet and 5G networks. Yet these promises are still unrealized. In order to fulfill them, it is crucial to understand where packet delays happen. In this work, we empirically find that sender-side protocol stack delays can cause high end-to-end latencies. Unfortunately, however, current latency diagnosis tools cannot even distinguish between delays on network links and delays in the end hosts. To close this gap, we present ELEMENT, a latency diagnosis framework that decomposes end-to-end TCP latency into endhost and network delays, without requiring admin privileges. We validate that ELEMENT achieves more than 90% accuracy. To demonstrate ELEMENT’s potential impact on real-world applications, we implement a relatively simple user-level library that uses ELEMENT to minimize delays. 
 
 ### Mobile data offloading
 ![amuse](assets/amuse.png)<br />
