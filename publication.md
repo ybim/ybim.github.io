@@ -7,6 +7,13 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States**</span><br />
+<span style="font-size: 13pt">Won Seok Jang, Yonggwan Lee, Jason Neff, __Youngbin Im__, Sangtae Ha, Luca
+Doro<br />
+to appear in Computers and Electronics in Agriculture.</span> 
+* <span style="color:LightSeaGreen">**Modeling MPTCP Performance**</span><br />
+<span style="font-size: 13pt">Jinsung Lee, __Youngbin Im__, and Joohyung Lee<br />
+to appear in IEEE Communications Letters.</span> 
 * <span style="color:LightSeaGreen">**I Sent It: Where Does Slow Data Go to Wait?**</span><br />
 <span style="font-size: 13pt">__Youngbin Im__, Parisa Rahimzadeh, Brett Shouse, Shinik Park, Carlee Joe-Wong, Kyunghan Lee, and Sangtae Ha<br />
  __*EuroSys 2019*__ (45 out of 207 = 21.7% acceptance rate).</span> 
