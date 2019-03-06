@@ -7,13 +7,19 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
-* <span style="color:LightSeaGreen">**Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States**</span><br />
-<span style="font-size: 13pt">Won Seok Jang, Yonggwan Lee, Jason Neff, __Youngbin Im__, Sangtae Ha, Luca
-Doro<br />
-Computers and Electronics in Agriculture (Accepted).</span> 
+* <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
+<span style="font-size: 13pt">Gyuhong Lee, Jihoon Lee, Jinsung Lee, __Youngbin Im__, Max Hollingsworth, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
+ACM MobiSys 2019 (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
+* <span style="color:LightSeaGreen">**CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions**</span><br />
+<span style="font-size: 13pt">Jihoon Lee, Jinsung Lee, __Youngbin Im__, Sandesh Sathyanarayana, Parisa Rahimzadeh, Xiaoxi Zhang, Max Hollingworth, Carlee Joe-Wong, Dirk Grunwald and Sangtae Ha<br />
+ACM MobiSys 2019 (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**Modeling MPTCP Performance**</span><br />
 <span style="font-size: 13pt">Jinsung Lee, __Youngbin Im__, and Joohyung Lee<br />
 IEEE Communications Letters (Accepted).</span> 
+* <span style="color:LightSeaGreen">**Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States**</span><br />
+<span style="font-size: 13pt">Won Seok Jang, Yonggwan Lee, Jason Neff, __Youngbin Im__, Sangtae Ha, Luca
+Doro<br />
+Computers and Electronics in Agriculture, vol. 158, pp. 189-200, March 2019.</span> 
 * <span style="color:LightSeaGreen">**I Sent It: Where Does Slow Data Go to Wait?**</span><br />
 <span style="font-size: 13pt">__Youngbin Im__, Parisa Rahimzadeh, Brett Shouse, Shinik Park, Carlee Joe-Wong, Kyunghan Lee, and Sangtae Ha<br />
  __*EuroSys 2019*__ (Accepted, 45 out of 207 = 21.7% acceptance rate).</span> 
