@@ -9,10 +9,10 @@ aside: true
 ### [](#international)International journals/conferences
 * <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
 <span style="font-size: 13pt">Gyuhong Lee, Jihoon Lee, Jinsung Lee, __Youngbin Im__, Max Hollingsworth, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
-ACM MobiSys 2019 (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
+ACM __*MobiSys 2019*__ (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions**</span><br />
 <span style="font-size: 13pt">Jihoon Lee, Jinsung Lee, __Youngbin Im__, Sandesh Sathyanarayana, Parisa Rahimzadeh, Xiaoxi Zhang, Max Hollingworth, Carlee Joe-Wong, Dirk Grunwald and Sangtae Ha<br />
-ACM MobiSys 2019 (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
+ACM __*MobiSys 2019*__ (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**Modeling MPTCP Performance**</span><br />
 <span style="font-size: 13pt">Jinsung Lee, __Youngbin Im__, and Joohyung Lee<br />
 IEEE Communications Letters (Accepted).</span> 
