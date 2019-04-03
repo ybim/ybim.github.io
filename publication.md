@@ -7,6 +7,9 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**ECHO: Efficiently Overbooking Applications to Create a Highly Available Cloud**</span><br />
+<span style="font-size: 13pt">Parisa Rahimzadeh, __Youngbin Im__, Gueyoung Jung, Carlee Joe-Wong and Sangtae Ha<br />
+IEEE __*ICDCS 2019*__ (19.6% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
 <span style="font-size: 13pt">Gyuhong Lee, Jihoon Lee, Jinsung Lee, __Youngbin Im__, Max Hollingsworth, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
 ACM __*MobiSys 2019*__ (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
