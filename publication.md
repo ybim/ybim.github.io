@@ -108,7 +108,7 @@ IEEE __*INFOCOM 2012*__.</span>
 ### [](#award) Awards
 * <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
 <span style="font-size: 13pt">Gyuhong Lee, Jihoon Lee, Jinsung Lee, __Youngbin Im__, Max Hollingsworth, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
-Best Paper Award in ACM __*MobiSys 2019*__.</span> 
+Best Paper Award at ACM __*MobiSys 2019*__.</span> 
 * <span style="color:LightSeaGreen">**RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**</span><br />
 <span style="font-size: 13pt">Awards in ACM __*MobiCom 2007 Student Demo Competition*__.<br />
 The Popular Demo Award, voted as the best demo by the ACM MobiCom participants, and second place award, voted by the ACM MobiCom Student Demo Competition judges</span>
