@@ -7,31 +7,34 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**Optimal Learning-Based Network Protocol Selection**</span><br />
+<span style="font-size: 13pt">Xiaoxi Zhang, Siqi Chen, __Youngbin Im__, Maria Gorlatova, Sangtae Ha, and Carlee Joe-Wong<br />
+IEEE/ACM ISCA Workshop on Machine Learning for Systems 2019.</span> 
 * <span style="color:LightSeaGreen">**ECHO: Efficiently Overbooking Applications to Create a Highly Available Cloud**</span><br />
 <span style="font-size: 13pt">Parisa Rahimzadeh, __Youngbin Im__, Gueyoung Jung, Carlee Joe-Wong and Sangtae Ha<br />
 IEEE __*ICDCS 2019*__ (19.6% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
 <span style="font-size: 13pt">Gyuhong Lee, Jihoon Lee, Jinsung Lee, __Youngbin Im__, Max Hollingsworth, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
-ACM __*MobiSys 2019*__ (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
+ACM __*MobiSys 2019*__ (40 out of 172 = 23.2% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions**</span><br />
 <span style="font-size: 13pt">Jihoon Lee, Jinsung Lee, __Youngbin Im__, Sandesh Sathyanarayana, Parisa Rahimzadeh, Xiaoxi Zhang, Max Hollingworth, Carlee Joe-Wong, Dirk Grunwald and Sangtae Ha<br />
-ACM __*MobiSys 2019*__ (Accepted, 40 out of 172 = 23.2% acceptance rate).</span> 
+ACM __*MobiSys 2019*__ (40 out of 172 = 23.2% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**Modeling MPTCP Performance**</span><br />
 <span style="font-size: 13pt">Jinsung Lee, __Youngbin Im__, and Joohyung Lee<br />
-IEEE Communications Letters (Accepted).</span> 
+IEEE Communications Letters, vol. 23, no. 4, pp. 616-619, April 2019.</span> 
+* <span style="color:LightSeaGreen">**I Sent It: Where Does Slow Data Go to Wait?**</span><br />
+<span style="font-size: 13pt">__Youngbin Im__, Parisa Rahimzadeh, Brett Shouse, Shinik Park, Carlee Joe-Wong, Kyunghan Lee, and Sangtae Ha<br />
+__*EuroSys 2019*__ (45 out of 207 = 21.7% acceptance rate).</span> 
 * <span style="color:LightSeaGreen">**Development of an EPIC Parallel Computing Framework to Facilitate Regional/Global Gridded Crop Modeling with Multiple Scenarios: A Case Study of the United States**</span><br />
 <span style="font-size: 13pt">Won Seok Jang, Yonggwan Lee, Jason Neff, __Youngbin Im__, Sangtae Ha, Luca
 Doro<br />
 Computers and Electronics in Agriculture, vol. 158, pp. 189-200, March 2019.</span> 
-* <span style="color:LightSeaGreen">**I Sent It: Where Does Slow Data Go to Wait?**</span><br />
-<span style="font-size: 13pt">__Youngbin Im__, Parisa Rahimzadeh, Brett Shouse, Shinik Park, Carlee Joe-Wong, Kyunghan Lee, and Sangtae Ha<br />
- __*EuroSys 2019*__ (Accepted, 45 out of 207 = 21.7% acceptance rate).</span> 
-* <span style="color:LightSeaGreen">**A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive Streaming**</span><br />
-<span style="font-size: 13pt">Ibrahim Ayad, __Youngbin Im__, Eric Keller, and Sangtae Ha<br />
-Elsevier Computer Networks 2018.</span> 
 * <span style="color:LightSeaGreen">**SNN-Cache: A Practical Machine Learning-based Caching System Utilizing the Inter-relationships of Requests**</span><br />
 <span style="font-size: 13pt">__Youngbin Im__, Prasanth Prahladan, Tae Hwan Kim, Yong Geun Hong, and Sangtae Ha<br />
 __*CISS 2018*__.</span> 
+* <span style="color:LightSeaGreen">**A Practical Evaluation of Rate Adaptation Algorithms in HTTP-based Adaptive Streaming**</span><br />
+<span style="font-size: 13pt">Ibrahim Ayad, __Youngbin Im__, Eric Keller, and Sangtae Ha<br />
+Elsevier Computer Networks, vol. 133, pp. 90-103, 14 March 2018.</span> 
 * <span style="color:LightSeaGreen">**Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Device**</span><br />
 <span style="font-size: 13pt">Jincao Zhu, __Youngbin Im__, Shivakant Mishra, and Sangtae Ha<br />
 ACM __*Sensys 2017*__ (26 out of 152 = 17.1% acceptance rate).</span> 
@@ -89,11 +92,18 @@ arXiv preprint arXiv:1707.07780 (2017). [PDF](https://arxiv.org/pdf/1707.07780.p
 (pending, Korean application NO. P2013-0066062.), 2013</span>
 
 ### [](#demo) Demo
-* <span style="color:LightSeaGreen">**RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**</span><br />
-<span style="font-size: 13pt">ACM __*MobiCom 2007*__</span>
+* <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
+<span style="font-size: 13pt">Max Hollingsworth, Gyuhong Lee, Jihoon Lee, Jinsung Lee, Youngbin Im, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
+ACM MobiSys 2019.</span>
+* <span style="color:LightSeaGreen">**CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions**</span><br />
+<span style="font-size: 13pt">Sandesh Sathyanarayana, Jihoon Lee, Jinsung Lee, Youngbin Im, Parisa Rahimzadeh, Xiaoxi Zhang, Max Hollingworth, Carlee Joe-Wong, Dirk Grunwald and Sangtae Ha<br />
+ACM MobiSys 2019.</span>
 * <span style="color:LightSeaGreen">**Demo: Pricing by Timing for Mobile Data**</span><br />
 <span style="font-size: 13pt">S. Ha, S. Sen, C. Joe-Wong, J. Mifkovich, R. Rill, Y. Im, D. Butnariu, J. Bawa and M. Chiang<br />
 IEEE __*INFOCOM 2012*__</span>
+* <span style="color:LightSeaGreen">**RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**</span><br />
+<span style="font-size: 13pt">ACM __*MobiCom 2007*__</span>
+
 
 ### [](#award) Awards
 * <span style="color:LightSeaGreen">**RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**</span><br />
