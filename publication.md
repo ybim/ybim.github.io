@@ -55,7 +55,7 @@ IEEE Transactions on Mobile Computing(__*TMC*__), vol. 15, no. 5, pp. 1062-1076,
 ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization(__*WiNTECH*__), Miami, Florida, USA, September 2013.</span>
 * <span style="color:LightSeaGreen">**AMUSE: Empowering Users for Cost-Aware Offloading with Throughput-Delay Tradeoffs**</span><br />
 <span style="font-size: 13pt">__Youngbin Im__, Carlee Joe-Wong, Sangtae Ha, Soumya Sen, Ted "Taekyoung" Kwon, and Mung Chiang<br />
-in IEEE __*INFOCOM 2013*__ (mini-conference), Turin, Italy.</span>
+IEEE __*INFOCOM 2013*__ (mini-conference), Turin, Italy.</span>
 * <span style="color:LightSeaGreen">**TUBE: Time-Dependent Pricing for Mobile Data**</span><br />
 <span style="font-size: 13pt">Sangtae Ha, Soumya Sen, Carlee-Joe Wong, __Youngbin Im__, Mung Chiang<br />
 ACM __*SIGCOMM 2012*__. [PDF](http://mmlab.snu.ac.kr/~ybim/TUBEsigcomm.pdf)</span>
