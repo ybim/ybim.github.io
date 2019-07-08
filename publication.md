@@ -100,9 +100,9 @@ ACM __*MobiSys 2019*__.</span>
 ACM __*MobiSys 2019*__.</span>
 * <span style="color:LightSeaGreen">**Demo: Pricing by Timing for Mobile Data**</span><br />
 <span style="font-size: 13pt">S. Ha, S. Sen, C. Joe-Wong, J. Mifkovich, R. Rill, Y. Im, D. Butnariu, J. Bawa and M. Chiang<br />
-IEEE __*INFOCOM 2012*__</span>
+IEEE __*INFOCOM 2012*__.</span>
 * <span style="color:LightSeaGreen">**RBP: RSS-based Prediction of Carrier Sense and Interference in 802.11 Networks**</span><br />
-<span style="font-size: 13pt">ACM __*MobiCom 2007*__</span>
+<span style="font-size: 13pt">ACM __*MobiCom 2007*__.</span>
 
 
 ### [](#award) Awards
