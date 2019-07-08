@@ -94,10 +94,10 @@ arXiv preprint arXiv:1707.07780 (2017). [PDF](https://arxiv.org/pdf/1707.07780.p
 ### [](#demo) Demo
 * <span style="color:LightSeaGreen">**This is Your President Speaking: Spoofing Alerts in 4G LTE Networks**</span><br />
 <span style="font-size: 13pt">Max Hollingsworth, Gyuhong Lee, Jihoon Lee, Jinsung Lee, Youngbin Im, Eric Wustrow, Dirk Grunwald and Sangtae Ha<br />
-ACM MobiSys 2019.</span>
+ACM __*MobiSys 2019*__.</span>
 * <span style="color:LightSeaGreen">**CASTLE over the Air: Distributed Scheduling for Cellular Data Transmissions**</span><br />
 <span style="font-size: 13pt">Sandesh Sathyanarayana, Jihoon Lee, Jinsung Lee, Youngbin Im, Parisa Rahimzadeh, Xiaoxi Zhang, Max Hollingworth, Carlee Joe-Wong, Dirk Grunwald and Sangtae Ha<br />
-ACM MobiSys 2019.</span>
+ACM __*MobiSys 2019*__.</span>
 * <span style="color:LightSeaGreen">**Demo: Pricing by Timing for Mobile Data**</span><br />
 <span style="font-size: 13pt">S. Ha, S. Sen, C. Joe-Wong, J. Mifkovich, R. Rill, Y. Im, D. Butnariu, J. Bawa and M. Chiang<br />
 IEEE __*INFOCOM 2012*__</span>
