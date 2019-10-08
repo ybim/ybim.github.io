@@ -6,9 +6,9 @@ excerpt: ""
 aside: true
 ---
 #### E-mail
-* Youngbin DOT Im AT colorado DOT edu
+* ybim AT unist DOT ac DOT kr
 
 #### Office
-* 425 UCB #1B61A, Boulder, CO 80309
+* EB2 501-9, UNIST-gil 50, Ulsan 44919, Republic of Korea
 
 {% include map.html %}
