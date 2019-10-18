@@ -7,6 +7,9 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**Towards Automated Network Management: Learning the Optimal Protocol Selction**</span><br />
+<span style="font-size: 13pt">Xiaoxi Zhang, Siqi Chen, __Youngbin Im__, Maria Gorlatova, Sangtae Ha, and Carlee Joe-Wong<br />
+IEEE __*ICNP 2019*__ (short paper – 19.3% acceptance rate).</span>
 * <span style="color:LightSeaGreen">**Optimal Learning-Based Network Protocol Selection**</span><br />
 <span style="font-size: 13pt">Xiaoxi Zhang, Siqi Chen, __Youngbin Im__, Maria Gorlatova, Sangtae Ha, and Carlee Joe-Wong<br />
 IEEE/ACM ISCA Workshop on Machine Learning for Systems 2019.</span> 
