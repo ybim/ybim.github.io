@@ -6,7 +6,6 @@ excerpt: ""
 ---
 
 ### About Youngbin Im
-__*I'm looking for motivated undergraduate/graduate students who are interested in networks and systems. Please drop me an email if you want to work with me.*__
 
 I joined the School of Electrical and Computer Engineering at Ulsan National Institute of Science and Technology (UNIST) in September 2019.
 
