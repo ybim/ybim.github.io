@@ -1,7 +1,7 @@
 ---
 title: ""
-feature-text: ""
-feature-image: "https://i.picsum.photos/id/1040/1300/400.jpg"
+feature_text: ""
+feature_image: "https://i.picsum.photos/id/1040/1300/400.jpg"
 excerpt: ""
 ---
 
@@ -14,4 +14,4 @@ My research mainly focuses on the theory and algorithm based practical system im
 
 I received my B.S. and Ph.D. degrees in Computer Science and Engineering from Seoul National University in 2006 and 2014, respectively. During my graduate program, I was a visiting student at Princeton University. Before joining UNIST, I was a postdoctoral researcher in the Department of Computer Science at University of Colorado Boulder from 2015 to 2019.
 
-My e-mail address is ybim AT unist DOT ac DOT kr
+My e-mail address is ybim AT unist DOT ac DOT kr 
