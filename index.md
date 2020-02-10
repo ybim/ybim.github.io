@@ -1,11 +1,12 @@
 ---
 title: ""
 feature_text: ""
-feature_image: "https://unsplash.it/1300/400?image=1040"
+feature_image: "https://i.picsum.photos/id/1040/1300/400.jpg"
 excerpt: ""
 ---
 
 ### About Youngbin Im
+__*I'm looking for motivated undergraduate/graduate students who are interested in networks and systems. Please drop me an email if you want to work with me.*__
 I joined the School of Electrical and Computer Engineering at Ulsan National Institute of Science and Technology (UNIST) in September 2019.
 
 My research mainly focuses on the theory and algorithm based practical system implementation, and deployment. I have been actively working on a datacenter memory disaggregation system, a new TCP latency measurement solution, practical mobile data offloading systems, caching strategies for the next generation Internet such as Named Data Networking (NDN), innovative adaptive video streaming solutions, and wireless networks and security. 
