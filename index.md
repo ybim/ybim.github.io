@@ -1,7 +1,7 @@
 ---
 title: ""
-feature_text: ""
-feature_image: "https://i.picsum.photos/id/1040/1300/400.jpg"
+feature-text: ""
+feature-image: "https://i.picsum.photos/id/1040/1300/400.jpg"
 excerpt: ""
 ---
 
