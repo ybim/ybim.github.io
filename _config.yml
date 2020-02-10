@@ -78,7 +78,7 @@ title: "Youngbin Im's homepage" # Site name or title, also used in jekyll-seo-ta
 logo: "/assets/birdhouse-48532_640.png" # Site logo, also used in jekyll-seo-tag
 description: ""
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "/home"
 #repo: "https://github.com/daviddarnes/alembic"
 #email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -86,7 +86,7 @@ avatarurl: "" #"https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c
 
 # 8. Site navigation
 navigation_header:
-  Home: /
+  Home: /home/
   Research: /research/
   Publication: /publication/
   Contact: /contact/
