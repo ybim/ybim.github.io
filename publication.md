@@ -7,6 +7,12 @@ aside: true
 ---
 
 ### [](#international)International journals/conferences
+* <span style="color:LightSeaGreen">**SPARCLE: Streaming Processing Applications over Dispersed Computing Networks**</span><br />
+<span style="font-size: 13pt">Parisa Rahimzadeh, Jinsung Lee, __Youngbin Im__, Siun-Chuon Mau, Eric C. Lee, Bradford O. Smith, Fatemah Al-Duoli, Carlee Joe-Wong, and Sangtae Ha<br />
+IEEE __*ICDCS 2020*__ (18% acceptance rate).</span>
+* <span style="color:LightSeaGreen">**FluidMem: Full Flexible and Fast Memory Disaggregation for the Cloud**</span><br />
+<span style="font-size: 13pt">Blake Caldwell, __Youngbin Im__, Sepideh Goodarzy, Sangtae Ha, Richard Han, Eric Keller, and Eric Rozner<br />
+IEEE __*ICDCS 2020*__ (18% acceptance rate).</span>
 * <span style="color:LightSeaGreen">**Towards Automated Network Management: Learning the Optimal Protocol Selction**</span><br />
 <span style="font-size: 13pt">Xiaoxi Zhang, Siqi Chen, __Youngbin Im__, Maria Gorlatova, Sangtae Ha, and Carlee Joe-Wong<br />
 IEEE __*ICNP 2019*__ (short paper – 19.3% acceptance rate).</span>
