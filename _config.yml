@@ -86,10 +86,10 @@ avatarurl: "" #"https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c
 
 # 8. Site navigation
 navigation_header:
-  Home: /home/
-  Research: /research/
-  Publication: /publication/
-  Contact: /contact/
+#  Home: /home/
+#  Research: /research/
+#  Publication: /publication/
+#  Contact: /contact/
 #  Elements: /elements/
 #  Blog: /blog/
 #  Categories: /categories/
